@@ -36,3 +36,6 @@ def book_seat():
 
     price = get_seat_price(seat_type)
     print(f" Booking confirmed for {name}. Seat: {seat_no} /n ({seat_type}) ,/n Price: Rs. {price}") 
+
+
+print("a")
